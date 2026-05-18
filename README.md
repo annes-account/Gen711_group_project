@@ -20,7 +20,11 @@ We ran our analysis on a laptop...
 
 We ran into this issue...
 
+read plot files using https://view.qiime2.org
+
 ## Findings
+
+<img width="440" height="329" alt="image" src="https://github.com/user-attachments/assets/a9a4d5e3-4207-467e-95b8-354eb39274e0" />
 
 ![plot](plots/fst_div.png)
 Figure 1. Provide figure descriptions- indicate how figure was made (programs), with which data. Make sure to cite everything you used. 
