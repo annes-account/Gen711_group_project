@@ -24,7 +24,15 @@ read plot files using https://view.qiime2.org
 
 ## Findings
 
-<img width="440" height="329" alt="image" src="https://github.com/user-attachments/assets/a9a4d5e3-4207-467e-95b8-354eb39274e0" />
+Figure one - Cyanobacteria_16s_V4-V5_demux_cutadapt (1).qzv
+<img width="442" height="327" alt="image" src="https://github.com/user-attachments/assets/c7eac3b2-1930-49c1-82d1-b093ffbedca3" />
+
+Figure three - weighted_unifrac_emperor.qzv
+<img width="442" height="327" alt="image" src="https://github.com/user-attachments/assets/7c694a95-419d-4519-bf55-206d77a40eff" />
+
+
+
+
 
 ![plot](plots/fst_div.png)
 Figure 1. Provide figure descriptions- indicate how figure was made (programs), with which data. Make sure to cite everything you used. 
@@ -34,3 +42,7 @@ To add a plot from the 'figs' folder, there needs to be a line in this document 
 ```
 ![plot](figs/plotfile.png)
 ```
+
+### Supplementary resources:
+
+
