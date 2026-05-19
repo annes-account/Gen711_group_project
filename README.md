@@ -16,7 +16,7 @@
 
 **Figure One:** Frequency histograms of sequencing depth for forward (left) and reverse (right) reads across all samples. The x-axis represents the number of sequences per sample (×1,000), and the y-axis indicates the number of samples per bin. 
 
-<img width="585" height="421" alt="image" src="https://github.com/user-attachments/assets/4ff8621e-547d-4ef3-b292-d914a2f1d25f" />
+<img width="1239" height="719" alt="Screenshot 2026-05-19 154502" src="https://github.com/user-attachments/assets/9e92194a-a765-4788-b5e7-7110151eeec4" />
 
 **Figure Two:** Taxonomic barplot of domain-level composition across all cyanobacterial samples generated in QIIME 2. The x-axis represents individual samples, and the y-axis denotes relative abundance.
 
@@ -32,7 +32,7 @@
 
 **Figure Two Analysis:** 
 
-&emsp; Taxonomic composition analysis of the cyanobacterial samples, as visualized in the QIIME 2 taxa barplot, revealed an overwhelming dominance of the domain Bacteria across all samples, with relative abundances approaching 99–100% in every case. In contrast, Archaea were either entirely absent or negligibly present, contributing minimally to the overall microbial community structure. This uniformity across all sample types indicates a highly conserved domain-level composition despite the substantial phylogenetic and compositional differences observed in the later PCoA analysis. Notably, even samples that were strongly separated along Axis 1 in the weighted UniFrac PCoA (Figure Three) did not exhibit divergence at the domain level, suggesting that the observed community differences are not driven by broad taxonomic shifts (e.g., Bacteria vs. Archaea), but rather by variation within bacterial lineages.
+&emsp; Taxonomic composition analysis of the cyanobacterial samples, as visualized in the QIIME 2 taxa barplot, revealed an overwhelming dominance of the domain Bacteria across all samples, with relative abundances approaching 99–100% in every case. This is a broad observation, with more detailed observations showing the biodiversity between samples in the Bacteria domain. In contrast, Archaea were either entirely absent or negligibly present, contributing minimally to the overall microbial community structure. This uniformity across all sample types indicates a highly conserved domain-level composition despite the substantial phylogenetic and compositional differences observed in the later PCoA analysis. Notably, even samples that were strongly separated along Axis 1 in the weighted UniFrac PCoA (Figure Three) did not exhibit divergence at the domain level, suggesting that the observed community differences are not driven by broad taxonomic shifts (e.g., Bacteria vs. Archaea), but rather by variation within bacterial lineages.
 
 **Figure Three Analysis:** 
 
