@@ -1,6 +1,6 @@
 # Cyanobacteria thing
 
-## Jasper C., Anne B., Greg B.  
+## Jasper Clement, Anne Barto, Greg Billiel  
 
 ## Background  
 
