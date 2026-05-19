@@ -25,11 +25,14 @@ read plot files using https://view.qiime2.org
 ## Graphs - 
 
 <img width="449" height="157" alt="image" src="https://github.com/user-attachments/assets/68af7a9c-5dbf-4a11-a1ba-a41e22629729" />
+
 **Figure 1.** Frequency histograms of sequencing depth for forward (left) and reverse (right) reads across all samples. The x-axis represents the number of sequences per sample (×1,000), and the y-axis indicates the number of samples per bin. 
 
+<img width="585" height="421" alt="image" src="https://github.com/user-attachments/assets/4ff8621e-547d-4ef3-b292-d914a2f1d25f" />
 
 **Figure 2.** Taxonomic barplot of domain-level composition across all cyanobacterial samples generated in QIIME 2. The x-axis represents individual samples, and the y-axis denotes relative abundance.
 
+<img width="586" height="332" alt="image" src="https://github.com/user-attachments/assets/261cd9f6-2ac4-4a36-8362-50622e476a87" />
 
 **Figure 3.** Principal coordinates analysis (PCoA) of weighted Unique Fraction Metric (UniFrac) distances among cyanobacterial communities visualized in QIIME 2 Emperor. Axes 1, 2, and 3 explain 32.97%, 21.36%, and 12.43% of total variation, respectively. Sample shapes denote groupings (squares are numbered samples, spheres are AIR samples, diamonds are NTC and PAC samples, cones are WLW samples, and cylinders are XB samples).
 
