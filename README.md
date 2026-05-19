@@ -1,4 +1,4 @@
-### Cyanobacteria Population Analysis
+# Cyanobacteria Population Analysis
 
 ## Jasper Clement, Anne Barto, Greg Billiel  
 
